@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>resource/computer-storage-floppy-disk.svg</file>
+        <file>resource/interface-delete-bin-2.svg</file>
+        <file>resource/interface-download-square.svg</file>
+        <file>resource/interface-folder.svg</file>
+        <file>resource/interface-text-formatting-text-style.svg</file>
+        <file>resource/interface-text-formatting-translate.svg</file>
+        <file>resource/interface-upload-square.svg</file>
+        <file>resource/interface-weather-sun.svg</file>
+        <file>resource/mail-send-envelope.svg</file>
+        <file>resource/programming-bug.svg</file>
+    </qresource>
+</RCC>
